@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 
 const CELL_WIDTH = 44;
 const CELL_HEIGHT = 64;
